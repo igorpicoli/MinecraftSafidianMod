@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "safidian:blocks/safidian_block"
+    }
+}
