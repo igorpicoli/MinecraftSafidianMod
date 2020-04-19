@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+
+  "key":
+  {
+    "S":
+    {
+      "item": "safidian:safidian"
+    }
+  },
+
+  "result":
+  {
+    "item": "safidian:safidian_block",
+    "count": 5
+  }
+}

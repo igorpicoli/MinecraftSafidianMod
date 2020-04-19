@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model":  "safidian:block/safidian_block" }
+    }
+}
