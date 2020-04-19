@@ -8,3 +8,5 @@ Melhor que diamante, porém muito mais raro, acompanha crafting de batata de saf
 
 
 ![](SafidianMod/images/V1.3.png)
+
+thnks for @endeermon for design
