@@ -8,13 +8,9 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 
 modId="safidian" #mandatory
 
-version="1.15.2-1.0.0" #mandatory
+version="1.15.2-1.2.0" #mandatory
 
-displayName="Safidian Mod" #mandatory
-
-updateJSONURL="http://myurl.me/" #optional
-
-displayURL="http://example.com/" #optional
+displayName="Safidian Mod V1.2" #mandatory
 
 logoFile="examplemod.png" #optional
 
@@ -22,7 +18,12 @@ credits="Thanks for Endeermon" #optional
 
 authors="Ziguirr" #optional
 
-description=''' My first mod, idk what is going on... '''
+description='''Safidian Mod: Que tal um desafio além do diamante?
+Itens de Safidian são muito mais poderosos!
+
+==================================================================
+
+-> Novo Bloco, Ferramentas e Minério!'''
 
 [[dependencies.examplemod]] #optional
 

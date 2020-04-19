@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "safidian:items/safidian_sword"
+    "layer0": "safidian:items/safidian_axe"
   }
 }
