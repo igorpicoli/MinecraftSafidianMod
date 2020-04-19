@@ -24,6 +24,6 @@ public class BlockBase {
 
     @SubscribeEvent
     public static void registerBlocksItems(final RegistryEvent.Register<Item> event){
-        event.getRegistry().register(new BlockItem(safidian_block, new Item.Properties().maxStackSize(64)).setRegistryName("safidian_block"));
+        event.getRegistry().register(new BlockItem(safidian_block, new Item.Properties().maxStackSize(64).group(com.Ziguirr.safidian.safidian.SafidianItemGroup.instance)).setRegistryName("safidian_block"));
     }
 }
